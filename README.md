@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Wardrobe Wizards
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Wardrobe Wizards is an e-commerce store that sells clothing and accessories, which is a clothing brand that is focused on helping people create magical and stylish outfits!
 
 ## Available Scripts
 
