@@ -1,4 +1,4 @@
-# Wardrobe Wizards
+# Wardrobe Wizards 🪄
 
 Wardrobe Wizards is an e-commerce store that sells clothing and accessories, which is a clothing brand that is focused on helping people create magical and stylish outfits!
 
